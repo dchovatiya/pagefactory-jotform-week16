@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testsuite" verbose="1" >
+    <test name="Test Class">
+<!--        <parameter name="firstNm" value="Martin"></parameter>-->
+<!--        <parameter name="lastNm" value="Hawkins"></parameter>-->
+<!--        <parameter name="securityQt" value="Favorite school subject"></parameter>-->
+<!--        <parameter name="securityAns" value="Maths"></parameter>-->
+<!--        <parameter name="expectedMsg" value=""></parameter>-->
+        <classes>
+            <class name="com.jotform.testsuite.TestClass"></class>
+        </classes>
+    </test>
+</suite>
